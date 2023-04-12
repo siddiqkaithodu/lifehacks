@@ -1,0 +1,1 @@
+Now you can share your Wifi with your friend or family easily by using this below automation script. This script creates a Qrcode for your Wifi and when you scan that Wifi your Phone or any wifi device will automatically connect with your Wifi.
